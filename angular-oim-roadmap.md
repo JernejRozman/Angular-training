@@ -4,7 +4,7 @@
 **Domain:** Banking / Enterprise frontend
 **Runway:** 2 months training + ongoing on the job
 **Daily commitment:** 4–6 focused hours
-**Starting from:** Strong Python/algorithmic background, weak frontend (~1.5/10 Angular)
+
 
 ---
 
