@@ -4,7 +4,7 @@
 **Domain:** Banking / Enterprise frontend
 **Runway:** 2 months training + ongoing on the job
 **Daily commitment:** 4–6 focused hours
-**Starting from:** Strong Python/algorithmic background, weak frontend (~1.5/10 Angular)
+
 
 ---
 
@@ -21,9 +21,9 @@
 ## Phase 0 — Setup & TypeScript Foundation
 *Why first: You're a Python dev. Static types will trip you up before Angular does. Banks read types like prose.*
 
-- [ ] Confirm Node.js 20+ and npm working
-- [ ] Install Angular CLI globally; run `ng version` successfully
-- [ ] TypeScript: primitives, type vs interface, union/intersection types
+- [x] Confirm Node.js 20+ and npm working
+- [x] Install Angular CLI globally; run `ng version` successfully
+- [x] TypeScript: primitives, type vs interface, union/intersection types
 - [ ] TypeScript: generics — write one generic function from scratch
 - [ ] TypeScript: narrowing (typeof, instanceof, discriminated unions)
 - [ ] TypeScript strict mode — understand what each flag forbids and why
