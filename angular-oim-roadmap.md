@@ -23,7 +23,7 @@
 
 - [x] Confirm Node.js 20+ and npm working
 - [x] Install Angular CLI globally; run `ng version` successfully
-- [ ] TypeScript: primitives, type vs interface, union/intersection types
+- [x] TypeScript: primitives, type vs interface, union/intersection types
 - [ ] TypeScript: generics — write one generic function from scratch
 - [ ] TypeScript: narrowing (typeof, instanceof, discriminated unions)
 - [ ] TypeScript strict mode — understand what each flag forbids and why
