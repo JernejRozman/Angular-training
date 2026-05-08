@@ -45,7 +45,7 @@ Track A starts day 1. **Track B starts day 8.** They run in parallel until both 
 - [x] TypeScript strict mode — understand what each flag in `tsconfig.json` actually forbids and why
 - [x] **🆕 Learn `unknown` vs `any`** — when each is right, why banks ban `any`
 - [x] **🆕 Learn `as const`, `readonly`, and why immutability matters in TS**
-- [ ] **Mini-project:** rewrite one of your Python scripts (pick something from AoC or Pacman) as TypeScript with full types and `--strict`. Push to repo.
+- [x] **Mini-project:** rewrite one of your Python scripts (pick something from AoC or Pacman) as TypeScript with full types and `--strict`. Push to repo.
 
 **Self-check:** Read this signature cold and tell me what it does:
 `function pluck<T, K extends keyof T>(obj: T, keys: K[]): Pick<T, K>`
