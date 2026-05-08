@@ -1,5 +1,4 @@
 "use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 function processData(data) {
     if (typeof data === 'string') {
         return data.toUpperCase();

@@ -3,7 +3,6 @@
 /*
 Multiline comments
 */
-Object.defineProperty(exports, "__esModule", { value: true });
 /*
   typeof
     - doesn't compile at runtime
