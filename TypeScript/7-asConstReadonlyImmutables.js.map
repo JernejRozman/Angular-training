@@ -1,1 +1,1 @@
-{"version":3,"file":"7-asConstReadonlyImmutables.js","sourceRoot":"","sources":["7-asConstReadonlyImmutables.ts"],"names":[],"mappings":""}
+{"version":3,"file":"7-asConstReadonlyImmutables.js","sourceRoot":"","sources":["7-asConstReadonlyImmutables.ts"],"names":[],"mappings":";;AAAA,MAAM,GAAG,GAAG;IACR,GAAG,EAAE;QACD,GAAG,EAAG,EAAE;KACX;CACK,CAAA;AAYV,MAAM,IAAI,GAAoB;IAC1B,OAAO,EAAE,QAAQ;CACpB,CAAA;AAED,0BAA0B;AAC1B,kCAAkC;AAGlC,oJAAoJ"}
