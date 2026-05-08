@@ -41,8 +41,8 @@ Track A starts day 1. **Track B starts day 8.** They run in parallel until both 
 - [x] Install Angular CLI globally; `ng version` matches OIM stack (20.3.15)
 - [x] TypeScript: primitives, `type` vs `interface`, union/intersection types
 - [x] TypeScript: generics — write one generic function from scratch
-- [ ] TypeScript: narrowing (typeof, instanceof, discriminated unions)
-- [ ] TypeScript strict mode — understand what each flag in `tsconfig.json` actually forbids and why
+- [x] TypeScript: narrowing (typeof, instanceof, discriminated unions)
+- [x] TypeScript strict mode — understand what each flag in `tsconfig.json` actually forbids and why
 - [ ] **🆕 Learn `unknown` vs `any`** — when each is right, why banks ban `any`
 - [ ] **🆕 Learn `as const`, `readonly`, and why immutability matters in TS**
 - [ ] **Mini-project:** rewrite one of your Python scripts (pick something from AoC or Pacman) as TypeScript with full types and `--strict`. Push to repo.
