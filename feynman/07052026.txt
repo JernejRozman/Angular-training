@@ -1,0 +1,4 @@
+I learned how to setup a Angular, Typescript and set the anglar version to the correct version of the OIM project. I started out with the basics to learn the Typescript primitives  (num, string, boolean).
+I learned that the differnece between types and interfaces that interfaces are safer and less eror prone and can change after declaration. Unions and Intersections are ways to dealing iwth classes or objects 
+that can behave differently one to join them and the other to spilit them.  I learned how to write comments singel and multiline. I learned to use Instanceof and typesof and how to use discriminative unions even tho
+i'm not sure all of this will be usefull in my angular programming juinrey but ill see.
