@@ -57,7 +57,7 @@ Track A starts day 1. **Track B starts day 8.** They run in parallel until both 
 
 - [x] `ng new` — understand every file the CLI creates (no skipping). Commit a written explanation of each file in `/notes/ng-new-anatomy.md`.
 - [x] Standalone component anatomy: `@Component`, selector, template, styles
-- [ ] Template syntax: interpolation, property binding `[x]`, event binding `(x)`
+- [x] Template syntax: interpolation, property binding `[x]`, event binding `(x)`
 - [ ] Two-way binding `[(x)]` — and why it's syntactic sugar for the other two combined
 - [ ] New control flow: `@if`, `@for` (with `track` — and *why* `track` matters), `@switch`, `@defer`
 - [ ] Signals: `signal()`, `computed()`, `effect()` — when each is right
