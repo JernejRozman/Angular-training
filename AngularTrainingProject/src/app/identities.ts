@@ -1,10 +1,11 @@
 export interface identity{
     firstname : String,
-    lastName : String,
+    lastname : String,
     accountname : String,
-    personalnumber : number,
-    costercenter : string,
+    pnr?: number,
+    personalnumber? : number,
+    costcenter? : string,
     department : string,
-    startdate : Date,
-    endDate : Date,
+    startDate : Date,
+    endDate? : Date,
 }

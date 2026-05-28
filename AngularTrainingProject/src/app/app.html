@@ -1,2 +1,20 @@
-<h1> Hello World! </h1>
-<h2>{{title}}</h2>
+<div class="card">
+    <div class="card-header h1">
+        {{title}}
+    </div>
+    <div class="card-body">
+        <h5 class="card-title h2">Set of identities</h5>
+        <div class="grid">
+            <div *ngFor="let identity of identities">
+                <div class="col">
+                    <div class="h5 mt-2"></div>
+                    {{identity.firstname}} {{identity.lastname}} ({{identity.accountname}})
+                </div>
+                <div class="col">
+                    <button type="button" class="btn btn-danger" (click)="DeleteIdentity(identity)"> Danger</button>
+                </div>
+            </div>
+        </div>
+        <p class="card-text"></p>
+    </div>
+</div>
